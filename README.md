@@ -11,3 +11,15 @@ cd newbie-webdev-starter-pack
 npm install
 npm run dev
 ```
+
+Also, I recommend you delete the `.git` folder that came with this template for you to
+start fresh your project. To do so, just run the following:
+
+```bash
+rm -rf .git
+git init
+git add -A
+git commit -m ":tada: Initial commit"
+```
+
+All set to right modern JavaScript projects! Just start coding!
