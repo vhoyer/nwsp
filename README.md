@@ -9,6 +9,8 @@ This project comes with:
   browsers can execute;
 - A development server (`parcel-bundler`) to prepare a local host server with
   hot-reloading so you don't have to keep reloading the page manually;
+- `npm` already configured with a deploy command: `npm run deploy` (powered by
+  [`gh-pages`](https://www.npmjs.com/package/gh-pages));
 
 Getting started
 ---------------
