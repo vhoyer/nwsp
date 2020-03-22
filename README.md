@@ -9,6 +9,14 @@ This project comes with:
 - A development server ([`parcel-bundler`](https://parceljs.org/)) to prepare a local host server with hot-reloading so you don't have to keep reloading the page manually;
 - `npm` already configured with a deploy command: `npm run deploy` (powered by [`gh-pages`](https://www.npmjs.com/package/gh-pages));
 
+Dependencies
+------------
+
+This template project expects you already have installed on your system the following programs:
+
+- [git](https://git-scm.com)
+- [node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
 Getting started
 ---------------
 
@@ -24,7 +32,16 @@ npm run dev
 Also, I recommend you delete the `.git` folder that came with this template for you to start fresh your project. To do so, just run the following:
 
 ```bash
+# this commands expect a linux environment
 rm -rf .git
+git init
+git add -A
+git commit -m ":tada: Initial commit"
+```
+
+```dos
+REM this commands expect a windows environment
+RMDIR /s /q .git
 git init
 git add -A
 git commit -m ":tada: Initial commit"
