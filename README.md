@@ -5,8 +5,8 @@ Welcome to Newbie Webdev Starter Pack, NWSP for short.
 
 This project comes with:
 
-- A bundler (`parcel-bundler`) to read all your code and prepare a package of files browsers can execute;
-- A development server (`parcel-bundler`) to prepare a local host server with hot-reloading so you don't have to keep reloading the page manually;
+- A bundler ([`parcel-bundler`](https://parceljs.org/)) to read all your code and prepare a package of files browsers can execute;
+- A development server ([`parcel-bundler`](https://parceljs.org/)) to prepare a local host server with hot-reloading so you don't have to keep reloading the page manually;
 - `npm` already configured with a deploy command: `npm run deploy` (powered by [`gh-pages`](https://www.npmjs.com/package/gh-pages));
 
 Getting started
