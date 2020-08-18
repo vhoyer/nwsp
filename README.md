@@ -1,7 +1,7 @@
 Newbie Webdev Starter Pack
 ==========================
 
-Welcome to Newbie Webdev Starter Pack, NWSP for short.
+Welcome to Newbie Webdev Starter Pack, NWSP for short. Needs somewhere to start? We got you covered!
 
 This project comes with:
 
